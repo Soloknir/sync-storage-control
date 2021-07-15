@@ -1,0 +1,22 @@
+{
+    "name": "sync-storage-control",
+    "version": "0.0.2",
+    "author": {
+        "name": "Baranov Mikhail",
+        "email": "misha.baranov.2013@gmail.com",
+        "url": "https://github.com/Soloknir"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Soloknir/sync-storage/blob/master/LICENSE"
+        }
+    ],
+    "peerDependencies": {
+        "@angular/common": "^10.2.4",
+        "@angular/core": "^10.2.4"
+    },
+    "dependencies": {
+        "tslib": "^2.0.0"
+    }
+}

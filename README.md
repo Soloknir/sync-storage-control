@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-npm install npm install sync-storage.control --save
+npm install npm install sync-storage-control --save
 ```
 
 ### Setup
